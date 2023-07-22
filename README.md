@@ -5,7 +5,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kheslley-rodrigues-da-silva-b040631a3/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCacIgpgKK92_U-EKC_EoZkQ)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kheslley15&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no meu dia
 
